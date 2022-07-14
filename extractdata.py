@@ -117,3 +117,4 @@ def UpdateLabelCount(datadirectory):
         
 if __name__ == "__main__":
     main(sys.argv, len(sys.argv))
+    return 1
