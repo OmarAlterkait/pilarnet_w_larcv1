@@ -1,6 +1,6 @@
 import os,sys
 import subprocess
-#from extractdata import extractdata
+from extractdata import extractdata
 
 # used for data urls
 datalocation = {
