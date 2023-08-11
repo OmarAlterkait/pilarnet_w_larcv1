@@ -41,7 +41,7 @@ def main(argv,argc): #use like python3 ExtractData.py "../datalocation/" "root f
     return 0
 
 
-def extractata(datadirectory,file):
+def extractdata(datadirectory,file):
     print(datadirectory)
     print(file)
     UpdateLabelCount(datadirectory)
@@ -117,4 +117,3 @@ def UpdateLabelCount(datadirectory):
         
 if __name__ == "__main__":
     main(sys.argv, len(sys.argv))
-    return 1
