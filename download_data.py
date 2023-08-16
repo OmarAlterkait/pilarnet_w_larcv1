@@ -1,6 +1,6 @@
 import os,sys
 import subprocess
-from extractdata import extractdata
+from extract_data import extractdata
 
 # used for data urls
 traindatalocation = {
