@@ -24,11 +24,11 @@ testdatalocation = {
 
 
 # where to save the data
-traindatadir = "../PilarDataTrain/"
+traindatadir = "../PilarData/Train/"
 
-validdatadir = "../PilarDataValid/"
+validdatadir = "../PilarData/Valid/"
 
-testdatadir = "../PilarDataTest/"
+testdatadir = "../PilarData/Test/"
 
 labels = (
     "Electron",
